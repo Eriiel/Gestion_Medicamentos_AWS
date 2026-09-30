@@ -179,4 +179,4 @@ farmacia-lab/
 
 ## Despliegue en AWS
 
-Requiere una cuenta de AWS con permisos sobre VPC, ECS, ECR, RDS, IAM, CloudWatch y Secrets Manager. Los pasos completos están en [`docs/Laboratorio_AWS_Farmacia.md`](docs/Laboratorio_AWS_Farmacia.md) y están escritos para ejecutarse en **Git Bash**. Al terminar, ejecuta el Paso 7 de esa guía para eliminar los recursos y evitar costos.
+Requiere una cuenta de AWS con permisos sobre VPC, ECS, ECR, RDS, IAM, CloudWatch y Secrets Manager. 
